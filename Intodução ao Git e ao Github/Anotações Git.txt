@@ -1,0 +1,15 @@
+-CMD-
+dir - lista diretórios
+cd - comando para ir à pasta específica
+cls - limpa tela
+mkdir - cria pasta
+rmdir - remove pasta
+
+-Bash-
+pwd - mostra trajeto até a pasta atual
+ls - lista itens da pasta atual 
+mv - move item
+git init - inicializa repostitório
+git add - adiciona itens ao repositório local
+git commit - engloba tudo o que foi feito, adiciona-se comentario sobre o que foi feito. Cria-se uma espécie de snapshot do projeto.
+git push - envia os commits para o Github
