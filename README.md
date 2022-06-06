@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/Github da Dio
-Repositório criado para o Desafio de Projeto.
+# Bootcamp Santander/Dio
+Repositório criado para armanezar os estudos para o Bootcamp Santander/Dio
